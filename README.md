@@ -12,21 +12,22 @@ Advantages:
 3. Safe Data: The system makes sure we don't accidentally delete important employee information. This keeps our employee data safe, which is crucial for our business.
 
 Form Design:  (With Input Value)
-Form Design:  (With Input Value)
 
 1. Login Page:
+![Picture1](https://github.com/user-attachments/assets/6a567122-fd58-4bc3-bb01-10335bf1551f)
+   
   
 
 
-2. Owner contact details:  
+3. Owner contact details:  
 
 
 
-3. Add Staff Details: 
+4. Add Staff Details: 
 
 
 
-4. Trainer Registration: 
+5. Trainer Registration: 
 
 
 5.StudentRegistration:
@@ -61,8 +62,7 @@ Form Design:  (With Input Value)
 12. Genrate Bill:
 
 
-
-6.Reports :-
+Reports :-
 
 1.Student Report: 
 
